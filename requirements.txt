@@ -1,0 +1,4 @@
+flask
+matplotlib
+pygame-ce
+pytest

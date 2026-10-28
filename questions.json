@@ -1,0 +1,22 @@
+[
+  {"text": "Which keyword defines a function in Python?",
+   "choices": ["func", "def", "function", "lambda"], "answer": 1,
+   "category": "python"},
+  {"text": "What does len('hello') return?",
+   "choices": ["4", "5", "6", "an error"], "answer": 1, "category": "python"},
+  {"text": "Which data type is immutable?",
+   "choices": ["list", "dict", "set", "tuple"], "answer": 3,
+   "category": "python"},
+  {"text": "What is the largest planet in our solar system?",
+   "choices": ["Saturn", "Earth", "Jupiter", "Neptune"], "answer": 2,
+   "category": "science"},
+  {"text": "What is the chemical symbol for gold?",
+   "choices": ["Au", "Ag", "Gd", "Go"], "answer": 0, "category": "science"},
+  {"text": "How many continents are there?",
+   "choices": ["5", "6", "7", "8"], "answer": 2, "category": "geography"},
+  {"text": "Which river is the longest in South America?",
+   "choices": ["Paraná", "Amazon", "Orinoco", "Magdalena"], "answer": 1,
+   "category": "geography"},
+  {"text": "What is 2 ** 5 in Python?",
+   "choices": ["10", "25", "32", "64"], "answer": 2, "category": "python"}
+]
